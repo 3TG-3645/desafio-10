@@ -1,0 +1,26 @@
+@font-face {
+    font-family: idroid;
+    src: url(pacote-projeto-d010\(1\)/fontes/idroid.otf);
+
+}
+.header{padding: 60px; font-family: sans-serif; font-weight: bolder; color: white; background-image: linear-gradient(to bottom, #5FCB8F, #1B5F3A); text-align: center; text-decoration: none; min-width: 120px; max-width: 1070px; margin-left: auto; margin-right: auto; border-radius: 10px;}
+body{background-color: #84E1AD; background-attachment: fixed;}
+div > p{font-weight: lighter; text-indent: 20px;}
+div > p.menu{display: inline-block; vertical-align: top; text-indent: 20px; transition-duration: 1s;}
+div > p.menu > a:hover{color: rgb(0, 0, 0); background-color: rgba(1, 255, 77, 0.521); border-radius: 10px; transition-duration: 0.5s;}
+div > p.menu > a {text-decoration: none; color: rgb(255, 255, 255); font-weight: bolder; margin-left: 30px; padding: 15px;}
+main {background-color: white;color: black; border: 5px; border-radius: 10px; min-width: 320px; max-width: 1200px; margin-right: auto; margin-left: auto; }
+main > h2{color: black; font-family: idroid; font-size: 20px;}
+main > p{color: black; font-family: sans-serif; font-weight: lighter; text-indent: 20px;}
+iframe{border: 5px; border-radius: 10px; display: block; margin-left: auto; margin-right: auto; width: 47%;}
+img{border: 5px; display: block; margin-left: auto; margin-right: auto; width: 80%;}
+main > p > a {color: darkgreen; text-decoration: none; font-weight: bolder;}
+main > p > a:hover{color: yellow; transition-duration: 00.5s;}
+h3{background-color: #1B5F3A; color: white; font-weight: bolder; width: 80%; border: 5px; border-radius: 10px; margin-left: auto; margin-right: auto; padding: 10px;}
+div > p > ul{background-color: #699c80; border: 5px; border-radius: 10px; margin-left: auto; margin-right: auto;}
+div > p > a{color: rgb(25, 99, 25); text-decoration: none; font-weight: bolder;}
+div > p >a:hover{color: yellow; transition-duration: 0.5;}
+footer{display: block; background-color: gray; height: 70px; text-align: center; border: 5px; border-radius: 10px; background-attachment: fixed; margin-left: auto; margin-right: auto; min-width: 320px; max-width: 1200px;}
+.small{display: block; margin: auto; width: 20%;}
+aside{background-color: #5FCB8F; font-weight: bolder; width: 80%; margin-left: auto; margin-right: auto; border-radius: 10px; box-shadow: 3px 3px 8px 3px rgba(0, 0, 0, 0.219);}
+aside ul {columns: 2; list-style-position: inside; margin-left: -30px;}
